@@ -1,11 +1,13 @@
 #  基于spaCy的命名实体识别
 <p align='right'>－－－－以“大屠杀”领域命名实体识别研究为例
 
-<p align='center'>作者:  Dr. W.J.B. Mattingly</p>
-<p align='center'>Postdoctoral Fellow at the Smithsonian Institution's Data Science Lab and United States Holocaust Memorial Museum</p>
-<p align='center'>2021年1月</p>
+作者:  Dr. W.J.B. Mattingly
+Postdoctoral Fellow at the Smithsonian Institution's Data Science Lab and United States Holocaust Memorial Museum
+2021年1月
 
-<p align='center'>引用:Mattingly, William. Introduction to Named Entity Recognition, 2020. ner.pythonhumanities.com</p>
+引用格式:Mattingly, William. Introduction to Named Entity Recognition, 2020. https://ner.pythonhumanities.com
+
+译者：崔喜荣
 
 
 >本文原本是作为自然语言处理任务之命名实体识别(NER)的教材。NER的目的是从非结构化文本中提取结构化数据，即特定的实体，如人名、地名、日期等。到目前为止，从使用现成的框架到自己开发特定领域的解决方案，还没有一种免费的、广泛的关于NER主题和方法的处理方法。本文使用几个不同的数据集来演示NER的使用方法和功用。这些章节与嵌入相关章节的YouTube视频一起使用。完整的播放列表可以在这里找到:[https://www.youtube.com/channel/UC5vr5PwcXiKX_-6NTteAlXw](https://www.youtube.com/channel/UC5vr5PwcXiKX_-6NTteAlXw "Python Tutorials for Digital Humanities")。
